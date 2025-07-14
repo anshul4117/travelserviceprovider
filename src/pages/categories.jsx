@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from "react";
-import CategoryCard from "@/components/categoryCard";
+import CategoryCard from "@/components/CategoryCard";
 import CityModal from "@/components/CityModal";
 import categories from "@/lib/categories";
 import allCities from "@/lib/cities";
